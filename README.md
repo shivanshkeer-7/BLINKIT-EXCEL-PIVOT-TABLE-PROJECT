@@ -1,4 +1,9 @@
+<img width="994" height="456" alt="Blinkit" src="https://github.com/user-attachments/assets/6c1617af-48a4-40c1-a030-24af29b0c08f" />
+[Shivansh_blinkit_project.xlsx](https://github.com/user-attachments/files/27281030/Shivansh_blinkit_project.xlsx)
 # Blinkit_Data_Analysis_Using_Excel
+
+## Data Source
+- https://docs.google.com/spreadsheets/d/1bKY8BXqaYwGrxBrJDp13jXndhVmIXxFh/edit?usp=drivesdk&ouid=100779595386058713434&rtpof=true&sd=true
 
 ## Table Of Contents
 - [Project Overview](#project-overview)
